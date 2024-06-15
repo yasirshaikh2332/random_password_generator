@@ -21,7 +21,7 @@ body{
 }
 .display{
     width: 100%;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 30px;
     background: #fff;
     color: #333;
@@ -75,4 +75,7 @@ font-size: 45px;
         width: 60%;
         overflow: scroll;
    } 
+    .container h1 span{
+    font-size:30px;
+}
 }
